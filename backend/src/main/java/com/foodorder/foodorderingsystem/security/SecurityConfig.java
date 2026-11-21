@@ -51,10 +51,11 @@ public class SecurityConfig {
     @Bean
     public CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration configuration = new CorsConfiguration();
-configuration.setAllowedOrigins(List.of(
-        "http://localhost:5173",
-        "https://food-ordering-system-blush-one.vercel.app"
-));        configuration.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"));
+        configuration.setAllowedOrigins(List.of(
+                "http://localhost:5173",
+                "https://food-ordering-system-blush-one.vercel.app",
+                "https://food-ordering-system-d37ahbm6i-kavithas-projects-a0370a45.vercel.app"
+        ));       configuration.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"));
         configuration.setAllowedHeaders(List.of("*"));
         configuration.setAllowCredentials(true);
 
