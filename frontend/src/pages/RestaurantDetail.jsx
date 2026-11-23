@@ -170,7 +170,7 @@ function RestaurantDetail() {
                 <section className="mt-6 overflow-hidden rounded-[28px] bg-white border border-[#f0e5da] shadow-sm">
 <div className="grid min-w-0 md:min-h-[340px] md:grid-cols-[1.1fr_0.9fr]">                            <div className="flex flex-col justify-center p-7 sm:p-10 lg:p-12">
                             <span className="w-fit rounded-full bg-[#fff0e4] px-4 py-2 text-xs font-bold tracking-wide text-[#c9683d]">
-                                ✦ WELCOME TO MUNCHLY
+                                ✦ WELCOME TO FOODHUB
                             </span>
 
                             <h1 className="mt-6 text-3xl sm:text-4xl lg:text-5xl font-black leading-tight">

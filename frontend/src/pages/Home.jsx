@@ -366,7 +366,7 @@ function Home() {
                 <div className="mx-auto flex max-w-[1400px] flex-col justify-between gap-4 sm:flex-row sm:items-center">
                     <div>
                         <h2 className="text-xl font-black text-[#d96537]">
-                            🍴 Munchly.
+                            🍴 FoodHub.
                         </h2>
                         <p className="mt-1 text-xs text-[#99877d]">
                             Good Food. Good Mood.
@@ -374,7 +374,7 @@ function Home() {
                     </div>
 
                     <p className="text-xs text-[#aa9b92]">
-                        © {new Date().getFullYear()} Munchly. All rights reserved.
+                        © {new Date().getFullYear()} FoodHub. All rights reserved.
                     </p>
                 </div>
             </footer>

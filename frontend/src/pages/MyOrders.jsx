@@ -63,7 +63,7 @@ function MyOrders() {
             <main className="max-w-5xl mx-auto px-5 sm:px-8 py-10">
                 <div className="mb-8">
                     <p className="text-orange-600 font-semibold text-sm tracking-widest uppercase mb-2">
-                        Your Munchly experience
+                        Your FoodHub experience
                     </p>
                     <h1 className="text-3xl sm:text-4xl font-extrabold text-[#292522]">
                         My Orders

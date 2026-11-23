@@ -64,7 +64,7 @@ function Login() {
                             to="/"
                             className="absolute top-8 left-8 text-2xl font-black text-white"
                         >
-                            Munchly<span className="text-orange-400">.</span>
+                            FoodHub<span className="text-orange-400">.</span>
                         </Link>
 
                         <div className="absolute bottom-10 left-8 right-8 text-white">
@@ -154,7 +154,7 @@ function Login() {
                                     disabled={loading}
                                     className="w-full bg-[#e8753d] text-white py-3.5 rounded-xl font-bold hover:bg-[#cc5d2b] shadow-md shadow-orange-100 transition disabled:opacity-50"
                                 >
-                                    {loading ? 'Logging in...' : 'Login to Munchly →'}
+                                    {loading ? 'Logging in...' : 'Login to FoodHub →'}
                                 </button>
 
                             </form>
@@ -170,7 +170,7 @@ function Login() {
                             </p>
 
                             <p className="text-center text-xs text-[#b2a49c] mt-10">
-                                © Munchly. Good food, delivered with love.
+                                © FoodHub. Good food, delivered with love.
                             </p>
 
                         </div>

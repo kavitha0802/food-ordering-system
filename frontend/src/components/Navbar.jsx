@@ -22,7 +22,7 @@ function Navbar() {
                 {/* Logo */}
                 <Link to="/" className="shrink-0">
                     <div className="text-2xl font-extrabold text-orange-600 tracking-tight">
-                        Munchly<span className="text-gray-800">.</span>
+                        FoodHub<span className="text-gray-800">.</span>
                     </div>
                     <span className="block text-[10px] font-semibold text-gray-500 tracking-widest">
                         GOOD FOOD. GOOD MOOD.
